@@ -10,7 +10,7 @@ These instructions will guide you on how to use DLL Gazer.
 ## Using DLL Gazer
 The instructions are straightforward. In a text editor (such as Microsoft VS Code), run dll_gazer.py and choose the scan type you prefer.<br>
 ![image](https://github.com/user-attachments/assets/1717ec29-0fb9-4502-8cc1-4a8bc3915908)
-## VirusTotal Ineregation
+## VirusTotal Integration
 ![X](https://github.com/user-attachments/assets/aa231a7a-d06e-4f4b-bad5-3e8bc9f3491d)
 ### Steps
 First, make sure to input your own API key<br>
