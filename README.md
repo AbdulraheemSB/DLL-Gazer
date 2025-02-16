@@ -15,8 +15,12 @@ The instructions are quite simple, on a text editor (Microsoft VS Code for examp
 ### Steps
 First, make sure to put your own API key<br>
 ![image](https://github.com/user-attachments/assets/9b3f62f7-2518-4229-8353-99270f6e7912)
-Then run "Check DLLs on VirusTotal<br>
+Then run "Check DLLs on VirusTotal"<br>
 ![image](https://github.com/user-attachments/assets/6b14fc39-f335-49ad-adbf-4ca1c49e3d10)
 You will then see the DLL files are being scanned and will have either a Clean or Malicious status
 ![image](https://github.com/user-attachments/assets/da159f4f-49ce-4258-9230-4dd351042ae4)
-
+## Real-life Scenario
+After detecting a malicious DLL, save the list on either CVS or Log format then find the hash of the DLL file and search it in VirusTotal to get more details.
+![Malicious](https://github.com/user-attachments/assets/078564f3-c582-42ae-a0f4-5c6cf797df5f)
+![CVS](https://github.com/user-attachments/assets/0de8432f-8d30-480f-8344-5d304bdc70a5)
+![VirusTotal](https://github.com/user-attachments/assets/555c7405-794a-476b-8800-ea155724c4de)
