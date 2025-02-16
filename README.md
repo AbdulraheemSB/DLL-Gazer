@@ -12,8 +12,11 @@ The instructions are quite simple, on a text editor (Microsoft VS Code for examp
 ![image](https://github.com/user-attachments/assets/1717ec29-0fb9-4502-8cc1-4a8bc3915908)
 ## VirusTotal Ineregation
 ![X](https://github.com/user-attachments/assets/aa231a7a-d06e-4f4b-bad5-3e8bc9f3491d)
+### Steps
 First, make sure to put your own API key<br>
 ![image](https://github.com/user-attachments/assets/9b3f62f7-2518-4229-8353-99270f6e7912)
 Then run "Check DLLs on VirusTotal<br>
 ![image](https://github.com/user-attachments/assets/6b14fc39-f335-49ad-adbf-4ca1c49e3d10)
+You will then see the DLL files are being scanned and will have either a Clean or Malicious status
+![image](https://github.com/user-attachments/assets/da159f4f-49ce-4258-9230-4dd351042ae4)
 
