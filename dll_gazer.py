@@ -2,12 +2,10 @@ import os
 import psutil
 import hashlib
 import requests
-import time
-import json
 from tqdm import tqdm
 
 # VirusTotal API Key (Replace with your key)
-VIRUSTOTAL_API_KEY = "6960b1c12fcc5b7cdfae322a1d4a57e537c27e9f2cceeb53c4c88b0ab3ab0cd1"
+VIRUSTOTAL_API_KEY = "YOUR_API_KEY"
 
 # Directories to scan
 DLL_DIRECTORIES = [
