@@ -8,5 +8,7 @@ DLL Gazer is a Python-based security tool designed to detect and analyze DLL fil
 ## Getting Started
 These instructions will show you how to use DLL Gazer.
 ## Using DLL Gazer
-Using a text editor (Microsoft VS Code for example) run dll_gazer.py<br>
-![image](https://github.com/user-attachments/assets/1717ec29-0fb9-4502-8cc1-4a8bc3915908)
+The instructions are quite simple, on a text editor (Microsoft VS Code for example) run dll_gazer.py and choose the scan type you like<br>
+![image](https://github.com/user-attachments/assets/1717ec29-0fb9-4502-8cc1-4a8bc3915908)<br>
+You can then generate the MD5/SHA256 hashes or scan the files on VirusTotal!
+![image](https://github.com/user-attachments/assets/57398514-6a59-4e6c-b2b7-2f58a8cd95be)
