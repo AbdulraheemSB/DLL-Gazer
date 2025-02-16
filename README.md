@@ -13,4 +13,5 @@ The instructions are quite simple, on a text editor (Microsoft VS Code for examp
 ## VirusTotal Ineregation
 ![X](https://github.com/user-attachments/assets/aa231a7a-d06e-4f4b-bad5-3e8bc9f3491d)
 First, make sure to put your own API key<br>
-![image](https://github.com/user-attachments/assets/5f1292ea-35d3-4061-8f3c-6aa4118e1898)
+![image](https://github.com/user-attachments/assets/9b3f62f7-2518-4229-8353-99270f6e7912)
+
