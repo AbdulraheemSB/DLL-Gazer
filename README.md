@@ -14,4 +14,6 @@ The instructions are quite simple, on a text editor (Microsoft VS Code for examp
 ![X](https://github.com/user-attachments/assets/aa231a7a-d06e-4f4b-bad5-3e8bc9f3491d)
 First, make sure to put your own API key<br>
 ![image](https://github.com/user-attachments/assets/9b3f62f7-2518-4229-8353-99270f6e7912)
+Then run "Check DLLs on VirusTotal<br>
+![image](https://github.com/user-attachments/assets/6b14fc39-f335-49ad-adbf-4ca1c49e3d10)
 
