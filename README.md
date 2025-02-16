@@ -1,7 +1,6 @@
 # DLL Gazer
 DLL Gazer is a Python-based security tool designed to detect and analyze DLL files on a Windows system.
 ![BGG](https://github.com/user-attachments/assets/260d3ce8-b245-4d80-8364-c3ee7e08bfea)
-
 ## Features
 -Scans all DLL files in key system directories.<br>
 -Identifies DLLs currently loaded by active processes.<br>
